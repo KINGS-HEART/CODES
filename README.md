@@ -16,11 +16,22 @@
 
 I'm a passionate **Software Developer** based in **Lagos, Nigeria**, dedicated to building clean, efficient, and user-centric web applications. I believe in the power of **simplicity** and strive to create elegant solutions to complex problems. Currently, I'm honing my skills as a student at **AltSchool Africa**.
 
-- 🔭 I’m currently working on several Vue.js and TypeScript projects.
-- 🌱 I’m currently learning advanced backend development and cloud technologies.
-- 👯 I’m looking to collaborate on open-source projects.
+- 🔭 I’m currently working on **[Blog-App](https://github.com/KINGS-HEART/Blog-App)** and **[VUE..JS-TS-ASSESSMENT](https://github.com/KINGS-HEART/VUE..JS-TS-ASSESSMENT)**.
+- 🌱 I’m currently learning **Advanced Backend Development** and **Cloud Technologies** at **AltSchool Africa**.
+- 👯 I’m looking to collaborate on open-source projects involving **Vue.js** and **TypeScript**.
 - 💬 Ask me about **JavaScript**, **Vue.js**, or **Figma**.
 - ⚡ Fun fact: I value tranquility and simplicity in both code and life.
+
+---
+
+### 🕒 Now
+
+*What I'm focused on at this moment:*
+- 🚀 Enhancing my portfolio with robust **TypeScript** applications.
+- 🏗️ Deepening my knowledge of **Backend Architecture** to build full-stack solutions.
+- 🧘 Practicing minimalist design and clean code principles.
+
+*Last updated: March 2026*
 
 ---
 
