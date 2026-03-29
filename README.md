@@ -31,7 +31,11 @@ I'm a passionate **Software Developer** based in **Lagos, Nigeria**, dedicated t
 - 🏗️ Deepening my knowledge of **Backend Architecture** to build full-stack solutions.
 - 🧘 Practicing minimalist design and clean code principles.
 
-*Last updated: March 2026*
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Focusing%20on%20Backend-blue?style=for-the-badge&logo=github" alt="Status Badge" />
+</p>
+
+*Last updated: March 2024*
 
 ---
 
