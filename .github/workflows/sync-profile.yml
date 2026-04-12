@@ -1,0 +1,29 @@
+name: Update Profile README
+
+on:
+  push:
+    branches:
+      - main
+      - professional-profile-redesign-15564850194422596947
+  schedule:
+    - cron: '0 0 * * *' # Run daily
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout CODES
+        uses: actions/checkout@v3
+
+      - name: Push to Profile Repo
+        env:
+          PROFILE_REPO_TOKEN: ${{ secrets.PROFILE_REPO_TOKEN }}
+        run: |
+          git config --global user.email "kingsleyebuka1@gmail.com"
+          git config --global user.name "KINGS-HEART"
+          git clone https://x-access-token:${PROFILE_REPO_TOKEN}@github.com/KINGS-HEART/KINGS-HEART.git profile-repo
+          cp README.md profile-repo/README.md
+          cd profile-repo
+          git add README.md
+          git commit -m "Update profile README from CODES repo" || exit 0
+          git push origin main
