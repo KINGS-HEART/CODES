@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - professional-profile-redesign-15564850194422596947
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *' # Run daily
 
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout CODES
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Push to Profile Repo
         env:
