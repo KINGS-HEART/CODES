@@ -16,7 +16,7 @@
 
 I'm a passionate **Software Developer** based in **Lagos, Nigeria**, dedicated to building clean, efficient, and user-centric web applications. I believe in the power of **simplicity** and strive to create elegant solutions to complex problems. Currently, I'm honing my skills as a student at **AltSchool Africa**.
 
-- 🔭 I’m currently working on **[Blog-App](https://github.com/KINGS-HEART/Blog-App)** and **[VUE..JS-TS-ASSESSMENT](https://github.com/KINGS-HEART/VUE..JS-TS-ASSESSMENT)**.
+- 🔭 I’m currently working on **[Blog-App](https://github.com/KINGS-HEART/Blog-App)** and **[Vue.js Assessment](https://github.com/KINGS-HEART/VUE..JS-TS-ASSESSMENT)**.
 - 🌱 I’m currently learning **Advanced Backend Development** and **Cloud Technologies** at **AltSchool Africa**.
 - 👯 I’m looking to collaborate on open-source projects involving **Vue.js** and **TypeScript**.
 - 💬 Ask me about **JavaScript**, **Vue.js**, or **Figma**.
@@ -31,11 +31,13 @@ I'm a passionate **Software Developer** based in **Lagos, Nigeria**, dedicated t
 - 🏗️ Deepening my knowledge of **Backend Architecture** to build full-stack solutions.
 - 🧘 Practicing minimalist design and clean code principles.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Focusing%20on%20Backend-blue?style=for-the-badge&logo=github" alt="Status Badge" />
 </p>
 
-*Last updated: March 2024*
+<p align="center">
+  <i>Last updated: May 2024</i>
+</p>
 
 ---
 
@@ -52,8 +54,8 @@ I'm a passionate **Software Developer** based in **Lagos, Nigeria**, dedicated t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KINGS-HEART&show_icons=true&theme=radical&hide_border=true" alt="KINGS-HEART's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINGS-HEART&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KINGS-HEART&show_icons=true&theme=radical&hide_border=true" alt="KINGS-HEART's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=KINGS-HEART&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -72,9 +74,9 @@ I'm a passionate **Software Developer** based in **Lagos, Nigeria**, dedicated t
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/KINGS-HEART" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="KINGS-HEART" /></a>
-  <a href="https://twitter.com/kingsleyebuka1" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kingsleyebuka1" /></a>
-  <a href="https://instagram.com/kingsleyebuka1" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kingsleyebuka1" /></a>
+  <a href="https://github.com/KINGS-HEART" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="KINGS-HEART" /></a>
+  <a href="https://twitter.com/kingsleyebuka1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kingsleyebuka1" /></a>
+  <a href="https://instagram.com/kingsleyebuka1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kingsleyebuka1" /></a>
 </p>
 
 ---
